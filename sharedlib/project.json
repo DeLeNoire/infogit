@@ -1,0 +1,9 @@
+{
+  "name": "sharedlib",
+  "$schema": "../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "sharedlib/src",
+  "projectType": "library",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project sharedlib --web",
+  "targets": {}
+}
